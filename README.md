@@ -12,7 +12,7 @@ I'm really passionated about learning new thing on tecnhology, specially now a d
 ---------------------------------------------------------------------
 -
 
-## 😄 Some projects I've been working on: ...
+## 😄 Some projects I've worked on: ...
 ---------------------------------------------------------------------
 -
 
