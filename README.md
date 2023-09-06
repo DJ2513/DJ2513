@@ -15,8 +15,8 @@ Currently I'm migrating all of the projects I'm working on and have done to Gith
 ## 😄 Some projects I've worked on: ...
 ---------------------------------------------------------------------
 Here is a list of some projects I've worked on:
-- [Raytracer:]
-  (https://github.com/DJ2513/RayTracer_V0.9)
+[Raytracer:]
+(https://github.com/DJ2513/RayTracer_V0.9)
 
 
 
