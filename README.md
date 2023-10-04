@@ -1,4 +1,4 @@
-# print("Hello World!") 👋
+# Hi there! 👋
 -------------------------------------------------------------------
 My name is Diego Jiménez, I'm 21 years old and I'm currently studying a bachelor degreee in Science of Computer Graphics and System Engineering.
 I'm really passionated about learning new thing on tecnhology, specially now a days. Also y like helping other people out with things that might be dificult to them. 
