@@ -21,6 +21,7 @@ This are some of the things I'm learning right now as a bachelor:
 - How to use Node js
 - How to use React js
 - Image-Processing in C++
+- Videogame Development in C#
 
 ## 😄 Some projects I've worked on: ...
 ---------------------------------------------------------------------
