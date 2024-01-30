@@ -20,10 +20,7 @@ Here are some of the languages/tecnhologies I've contact with:
 ## 🌱 I’m currently learning ...
 ---------------------------------------------------------------------
 This are some of the things I'm learning right now as a bachelor:
-- How to use Node js
-- How to use React js
-- Image-Processing in C++
-- Videogame Development in C#
+- Movile Development for Android and iOS with Kotlin and Swift 
 
 ## 😄 Some projects I've worked on: ...
 ---------------------------------------------------------------------
