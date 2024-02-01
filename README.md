@@ -7,9 +7,9 @@ Currently I'm migrating all of the projects I'm working on and have done to Gith
 ## 🔭 Tecnhologies that I've contact with ...
 --------------------------------------------------------------------
 Here are some of the languages/tecnhologies I've contact with:
-Languages: 
+- Languages: 
 C | C++ | Python | Java | Javascript                 
-Technologies / Libraries: 
+- Technologies / Libraries: 
 Node js | React js | Postman | MYSQL
 
 ## 🌱 I’m currently learning ...
