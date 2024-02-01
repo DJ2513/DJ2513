@@ -7,20 +7,17 @@ Currently I'm migrating all of the projects I'm working on and have done to Gith
 ## 🔭 Tecnhologies that I've contact with ...
 --------------------------------------------------------------------
 Here are some of the languages/tecnhologies I've contact with:
-- C                  
-- C++                
-- Python             
-- Java
-- Javascript
-- Node js
-- React js
-- Postman
-- MYSQL
+Languages: 
+C | C++ | Python | Java | Javascript                 
+
+Technologies / Libraries: 
+Node js | React js | Postman | MYSQL
 
 ## 🌱 I’m currently learning ...
 ---------------------------------------------------------------------
 This are some of the things I'm learning right now as a bachelor:
-- Movile Development for Android and iOS with Kotlin and Swift 
+- Movile Development for Android and iOS with Kotlin and Swift
+- Dockers on my Distributed Computing class 
 
 ## 😄 Some projects I've worked on: ...
 ---------------------------------------------------------------------
