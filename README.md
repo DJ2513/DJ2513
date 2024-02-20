@@ -3,7 +3,6 @@ My name is Diego Jiménez, I'm 21 years old and I'm currently studying a bachelo
 I'm really passionated about learning new thing on tecnhology, specially now on software architecture, proper QA, Cybersecurity and AI. Also y like helping other people out with things that might be dificult to them. 
 
 ## 🔭 Tecnhologies that I've contact with ...
---------------------------------------------------------------------
 Here are some of the languages/tecnhologies I've contact with:
 - Languages: 
 C | C++ | Python | Java | Javascript | Kotlin                
@@ -11,13 +10,11 @@ C | C++ | Python | Java | Javascript | Kotlin
 Node js | React js | Postman | MYSQL
 
 ## 🌱 I’m currently learning ...
----------------------------------------------------------------------
 This are some of the things I'm learning right now as a bachelor:
 - Movile Development for Android and iOS with Kotlin and Swift
 - Dockers on my Distributed Computing class 
 
 ## 😄 Some projects I've worked on: ...
----------------------------------------------------------------------
 Here is a list of some projects I've worked on:
 
 Computer Graphics
