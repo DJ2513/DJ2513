@@ -3,8 +3,6 @@
 My name is Diego Jiménez, I'm 21 years old and I'm currently studying a bachelor degreee in Science of Computer Graphics and System Engineering.
 I'm really passionated about learning new thing on tecnhology, specially now on software architecture, proper QA, Cybersecurity and AI. Also y like helping other people out with things that might be dificult to them. 
 
-Currently I'm migrating all of the projects I'm working on and have done to Github, so I hope you  like them all!
-
 ## 🔭 Tecnhologies that I've contact with ...
 --------------------------------------------------------------------
 Here are some of the languages/tecnhologies I've contact with:
