@@ -11,8 +11,8 @@ Node js | React js | Postman | MYSQL
 
 ## 🌱 I’m currently learning ...
 This are some of the things I'm learning right now as a bachelor:
-- Movile Development for Android and iOS with Kotlin and Swift
-- Dockers on my Distributed Computing class 
+- Movile Development for Android with Kotlin and iOS with Swift
+- Dockers
 
 ## 😄 Some projects I've worked on: ...
 Here is a list of some projects I've worked on:
