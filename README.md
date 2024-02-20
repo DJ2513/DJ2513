@@ -8,7 +8,7 @@ Currently I'm migrating all of the projects I'm working on and have done to Gith
 --------------------------------------------------------------------
 Here are some of the languages/tecnhologies I've contact with:
 - Languages: 
-C | C++ | Python | Java | Javascript                 
+C | C++ | Python | Java | Javascript | Kotlin                
 - Technologies / Libraries: 
 Node js | React js | Postman | MYSQL
 
