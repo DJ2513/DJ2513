@@ -25,7 +25,7 @@ VideoGames
 
 ## 📫 How to reach me: ...
 You can contact me via:
- - [LinkedIn]:(https://www.linkedin.com/in/diego-jim%C3%A9nez-ontiveros-738972276/)
+ - [LinkedIn](https://www.linkedin.com/in/diego-jim%C3%A9nez-ontiveros-738972276/)
 <!--
 **DJ2513/DJ2513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
