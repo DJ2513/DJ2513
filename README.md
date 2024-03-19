@@ -13,7 +13,6 @@ Node js | React js | Postman | MYSQL
 This are some of the things I'm learning right now as a bachelor:
 - Movile Development for Android with Kotlin and for iOS with Swift
 - Dockers
-- Starting to learn GoLang
 
 ## 😄 Some projects I've worked on: ...
 Here is a list of some projects I've worked on:
