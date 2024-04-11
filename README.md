@@ -5,9 +5,7 @@ I'm really passionated about learning new thing on tecnhology, specially now on 
 ## 🔭 Tecnhologies that I've contact with ...
 Here are some of the languages/tecnhologies I've contact with:
 - Languages: 
-C | C++ | Python | Java | Javascript | Kotlin                
-- Technologies / Libraries: 
-Node js | React js | Postman | MYSQL
+C | C++ | Python | Java | Javascript | Kotlin | GoLang
 
 ## 🌱 I’m currently learning ...
 This are some of the things I'm learning right now as a bachelor:
