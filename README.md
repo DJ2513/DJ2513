@@ -3,8 +3,6 @@ My name is Diego Jiménez, I'm 22 years old and I'm currently studying a bachelo
 I'm really passionated about learning new thing on tecnhology, specially now on software architecture, proper QA, Cybersecurity and AI. Also y like helping other people out with things that might be dificult to them. 
 
 ## 🔭 Tecnhologies that I've contact with ...
-Here are some of the languages/tecnhologies I've contact with:
-- Languages: 
 C | C++ | Python | Java | Javascript | Kotlin | GoLang
 
 ## 🌱 I’m currently learning ...
