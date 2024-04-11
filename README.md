@@ -9,6 +9,7 @@ C | C++ | Python | Java | Javascript | Kotlin | GoLang
 This are some of the things I'm learning right now as a bachelor:
 - Movile Development for Android with Kotlin and for iOS with Swift
 - Dockers
+- Basics of GoLang
 
 ## 😄 Some projects I've worked on: ...
 Here is a list of some projects I've worked on:
