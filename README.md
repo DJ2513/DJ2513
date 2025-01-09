@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey there! I'm Diego Jiménez, a proactive and passionate person always thrilled to dive into new experiences and learning opportunities. I like solving puzzles, whether they're coding challenges or brain teasers.<br><br>Outside of the digital world, you'll often find me doing excersive, whether it´s a sport or in the gym, or hanging out with friends, colleagues and family. Empathy is at the core of who I am, and I genuinely enjoy helping out others whenever I can.<br><br>My journey in tech is driven by a curiosity to explore, innovate, and collaborate. I believe in the power of community and teamwork, and am always looking for ways to contribute and support others in everyway I can.<br><br>
 
-# What am I workin on...
+# What am I working on...
 Currently my main goal is to learn deeply another backend language, Java, and the framework I want to learn is Spring Boot. I am working on a personal web proyect as I'm learning both of them. I think it is the best way to start learning something new!
 
 # 💻 Tech Stack:
